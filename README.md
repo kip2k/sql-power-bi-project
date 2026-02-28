@@ -1,4 +1,4 @@
-# Global YouTube Statistics (2023): SQL → Power BI Dashboard (Top 1000 Channels)
+# Global YouTube Statistics Project: SQL → Power BI Dashboard (Top 1000 Channels)
 
 ## Dataset
 Source: Kaggle — **Global YouTube Statistics 2023**  
