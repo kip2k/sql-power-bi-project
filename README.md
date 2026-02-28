@@ -22,6 +22,7 @@ In this project, I explored the **top 1000 YouTube channels worldwide** to under
 - **Average Earnings by Country** (compare average estimated earnings per country)
 - **Total Views by Country** (identify where views are concentrated)
 - **Total Views by Category/Genre** (find the most-watched content type)
+
 ![image alt](https://github.com/kip2k/sql-power-bi-project/blob/fc6726ff8f9c7fce0d7321574e757f6e57229a11/zen_KhJa2WX7ix.png)
 
 ## Standout Insight
